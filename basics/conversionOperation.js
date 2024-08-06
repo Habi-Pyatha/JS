@@ -20,3 +20,15 @@ let number=33
 let stringNumber=String(number)
 console.log(typeof stringNumber);
 
+
+console.log(true);
+
+
+
+let gameCounter=100
+gameCounter++;
+console.log(gameCounter);
+
+
+
+
