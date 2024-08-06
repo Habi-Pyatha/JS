@@ -10,4 +10,15 @@ let name="Hitesh"
 let age=18
 let isLoggedIn=true
 
-//number => 2^53
+//number => 2^53/
+//bigint
+//string 
+//boolean true/false
+//null => standalone
+//undefined 
+//symbol=> unique
+//object
+console.log(typeof null)
+
+
+
