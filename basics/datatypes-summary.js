@@ -34,3 +34,26 @@ const myFunction= function(){
 }
 
 console.log(typeof heros);
+
+///----------------memory types-----------
+
+
+//stack (Primitive), heap(non-primitive)
+
+let myYoutubename="gamininggodly.com"
+let anothername=myYoutubename
+anothername="chaiaurcode"
+console.log(anothername);
+console.log(myYoutubename);
+
+let user={
+    email:"user@gmail.com",
+    upi:"user@yub"
+}
+
+let userTwo=user
+userTwo.email="anime@gmail.com"
+
+console.log(user.email);
+console.log(userTwo.email);
+
